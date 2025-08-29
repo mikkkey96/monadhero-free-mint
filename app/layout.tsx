@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
-import "./globals.css";
+// import "./globals.css";  // <-- Закомментируйте или удалите эту строку
 
 export const metadata: Metadata = {
-  title: "MonadHero Free Mint", 
+  title: "MonadHero Free Mint",
   description: "Mint your free Hero NFT badge on Monad blockchain",
 };
 
